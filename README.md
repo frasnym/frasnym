@@ -1,6 +1,6 @@
 <h1 align=center>Hi there 👋, I'm Fras</h1>
-<hr />
-<h2 align=center>A programmer, who curious about many things ✌️</h2>
+
+<h3 align=center>A programmer, who curious about many things ✌️</h3>
 
 <br />
 

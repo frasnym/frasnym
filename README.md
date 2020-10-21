@@ -4,7 +4,7 @@
 
 <br />
 
-- 🔭 I’m currently working as a **Full-time Backend Developer**
+- 🔭 I’m currently working as a **Full-time Fullstack Developer**
 - 🌱 I’m currently learning **Flutter**, and **Django** will be next
 
 
@@ -39,6 +39,9 @@
 <hr />
 
 <img align="left" alt="frasnym's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=frasnym&show_icons=true&hide_border=false" />
+
+<br />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frasnym&layout=compact&hide=html" alt="frasnym" />
 
 <!--

@@ -5,7 +5,7 @@
 <br />
 
 - 🔭 I’m currently working as a **Full-time Fullstack Developer**
-- 🌱 I’m currently learning **Flutter**, and **Django** will be next
+- 🌱 I’m currently learning **Flutter**, and **NodeJS** will be next
 
 
 ### Connect with me:

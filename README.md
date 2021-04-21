@@ -1,6 +1,6 @@
 <h1 align=center>Hi there 👋, I'm Fras</h1>
 
-<h3 align=center>A software engineer,  ✌️</h3>
+<h3 align=center>A software engineer, Help company build their desired application 💼</h3>
 
 <br />
 
@@ -24,21 +24,25 @@
 
 <br />
 
-### Stack & Tools:
+### Everyday Stacks:
 
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img align="left" alt="nodejs" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
 <img align="left" alt="jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
+<img align="left" alt="mongodb" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt="pgsql" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<img align="left" alt="mysql" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
+
+<br />
+
+### Other Stacks and Tools:
 <img align="left" alt="reactjs" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt="php" width="26px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
 <img align="left" alt="html5" width="26px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="mongodb" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img align="left" alt="pgsql" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
-<img align="left" alt="mysql" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
 
 <img align="left" alt="vsc" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />

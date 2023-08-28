@@ -45,7 +45,7 @@
 [<img align="left" alt="frasnym | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="frasnym | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" />][devto]
 
-[twitter]: https://twitter.com/FrastyawanN
+[twitter]: https://twitter.com/intent/follow?screen_name=frasnym
 [linkedin]: https://www.linkedin.com/in/frasnym
 [devto]: https://dev.to/frasnym/
 
